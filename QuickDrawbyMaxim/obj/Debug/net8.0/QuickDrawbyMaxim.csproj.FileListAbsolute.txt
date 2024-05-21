@@ -1,0 +1,14 @@
+C:\Users\garud\source\repos\QuickDrawbyMaxim\bin\Debug\net8.0\QuickDrawbyMaxim.exe
+C:\Users\garud\source\repos\QuickDrawbyMaxim\bin\Debug\net8.0\QuickDrawbyMaxim.deps.json
+C:\Users\garud\source\repos\QuickDrawbyMaxim\bin\Debug\net8.0\QuickDrawbyMaxim.runtimeconfig.json
+C:\Users\garud\source\repos\QuickDrawbyMaxim\bin\Debug\net8.0\QuickDrawbyMaxim.dll
+C:\Users\garud\source\repos\QuickDrawbyMaxim\bin\Debug\net8.0\QuickDrawbyMaxim.pdb
+C:\Users\garud\source\repos\QuickDrawbyMaxim\obj\Debug\net8.0\QuickDrawbyMaxim.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\garud\source\repos\QuickDrawbyMaxim\obj\Debug\net8.0\QuickDrawbyMaxim.AssemblyInfoInputs.cache
+C:\Users\garud\source\repos\QuickDrawbyMaxim\obj\Debug\net8.0\QuickDrawbyMaxim.AssemblyInfo.cs
+C:\Users\garud\source\repos\QuickDrawbyMaxim\obj\Debug\net8.0\QuickDrawbyMaxim.csproj.CoreCompileInputs.cache
+C:\Users\garud\source\repos\QuickDrawbyMaxim\obj\Debug\net8.0\QuickDrawbyMaxim.dll
+C:\Users\garud\source\repos\QuickDrawbyMaxim\obj\Debug\net8.0\refint\QuickDrawbyMaxim.dll
+C:\Users\garud\source\repos\QuickDrawbyMaxim\obj\Debug\net8.0\QuickDrawbyMaxim.pdb
+C:\Users\garud\source\repos\QuickDrawbyMaxim\obj\Debug\net8.0\QuickDrawbyMaxim.genruntimeconfig.cache
+C:\Users\garud\source\repos\QuickDrawbyMaxim\obj\Debug\net8.0\ref\QuickDrawbyMaxim.dll
